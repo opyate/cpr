@@ -14,7 +14,7 @@ pytest
 
 # Usage
 
-To start with a fresh index (e.g. in case the CSV or schema changes), simply delete the directory `index_dir`.
+To start with a fresh index (e.g. in case the CSV or schema changes), simply delete the directory `indexdir`.
 
 Run with
 
